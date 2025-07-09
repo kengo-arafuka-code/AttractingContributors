@@ -23,6 +23,7 @@
 - 7 hours
 - 5~6.5 hours
 - 6.5-7 hours
+- 5 hours
 - 5.5 hours
 - 6 hours
 - 7 hours

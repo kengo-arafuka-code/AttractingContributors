@@ -12,3 +12,4 @@
 - カフェオレ
 - Unfiltered sake
 - Lemon sour
+- 焼酎
